@@ -9,3 +9,9 @@ function addNum(a, b)
 }
 
 console.log(addNum(5,4));
+
+function newCommit(x, y)
+{
+    console.log(" added new feature in a branch ");
+    
+}
