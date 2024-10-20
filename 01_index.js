@@ -11,3 +11,5 @@ function addNum(a, b)
 console.log(addNum(5,4));
 
 console.log(" added master again and pushing now ");
+
+console.log(" MASTER COMMIT ");
