@@ -10,6 +10,10 @@ function addNum(a, b)
 
 console.log(addNum(5,4));
 
+console.log(" added master again and pushing now ");
+
+console.log(" MASTER COMMIT ");
+
 function newCommit(x, y)
 {
     console.log(" added new feature in a branch ");
